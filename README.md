@@ -29,5 +29,3 @@ Results
 Test Accuracy: ~0.86
 Test F1 Score: ~0.86
 Test ROC AUC: ~0.97
-The model demonstrates strong performance in classifying blood cell images and can be further improved with more advanced architectures or data augmentation techniques.
-метрики говорят о том, что модель обучена хорошо и обобщает на тесте. Ты всё сделал правильно!
